@@ -1,0 +1,39 @@
+---
+categories: []
+ID: "38c2ef38-212d-4aa3-94ba-5455f9687ce5"
+tags: []
+description: "cara tidur yang benar"
+slug: "cara-tidur-yang-benar"
+title: "Cara Tidur Yang Benar"
+image: "contentrain/static/1679533721907_61223c2e92827.jpg"
+createdAt: 1679533723240
+
+---
+|Hello|Bro|Kita|
+|-|-|-|
+|fjfefj|content2|content3|
+## fsefeofkeokf
+~~ffsfefe~~
+
+**Location: Indonesia, countrywide**
+
+Event: On Wednesday 23 March all U.S. government offices in Indonesia will be closed in observance of the national Nyepi (Silent Day) holiday. This includes the U.S. Embassy in Jakarta and U.S. Consulate in Surabaya.
+
+Please Note: The U.S. Consular Agency in Bali will be closed from 12pm Tuesday 22 March due to Bali authorities preparing for the holiday.
+
+All offices will reopen on Thursday 24 March.
+
+U.S. citizens in Bali should expect major road closures, store closures, airport closure and reduced data network services during the Nyepi holiday in Bali on Wednesday 23 March. Public movement during Nyepi is largely restricted except for emergency reasons. Please check with your property owner, hotel manager or someone with a similar function if you unsure what activities are permitted in your exact area.
+
+U.S. citizens in Bali should be aware of a current enforcement campaign by the Indonesian authorities – including hundreds of police, immigration, transportation, and tourism officials. The campaign, which is focused of ensuring that foreign tourists and residents in Bali are complying with local laws, is resulting in increased enforcement of traffic and vehicle violations, illegal work or other visa violations, illegal drug possession and other crimes.
+
+U.S. citizens are reminded to always comply with all local laws while traveling in Indonesia, and the stiff penalties that may be incurred for violations, including but not limited to fines, deportation, and prison terms.
+
+If you feel that you are the subject of undue and unfair treatment from police or other officials, please contact the respective American Citizen Services office at your first opportunity.
+
+Actions to Take if Visiting Bali:
+
+Prepare your stay to extend before and after Nyepi; no travel is allowed during the holiday’s observance.
+Make arrangements for food and meals in advance; few hotels, restaurants, or shops will provide services.
+Avoid any public activity or noises that will disturb the community.
+For further information: 
